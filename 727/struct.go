@@ -54,3 +54,28 @@ func noNameStuct() {
 	创建指针类型结构体
 
 */
+
+/*
+		for key, val := range myMap {
+		println(key, val)
+	}
+
+	map1 := map[string]string{
+		"one": "1",
+		"two": "2",
+		"ten": "10",
+	}
+
+	fmt.Println(map1["one"])
+
+	scoreMap := make(map[string]int, 8)
+	scoreMap["张三"] = 90
+	scoreMap["小明"] = 100
+
+	for k, v := range scoreMap {
+		fmt.Println(k, v)
+	}
+	fmt.Println(scoreMap)
+
+}
+*/
